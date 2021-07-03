@@ -1,1 +1,2 @@
-# ball
+# Geologist
+Geologist Project
